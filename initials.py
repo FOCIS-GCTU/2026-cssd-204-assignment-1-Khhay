@@ -2,12 +2,12 @@
 # Description: Print out my initials.
 # Assignment Number: 1 
 # 
-# Name: <KELVIN AMU>
-# STUDENT ID:  <2425403579>
-# Email: <amukelvin80@gmail.com/2425403579@gctu.edu.gh>
-# Grader: <AUGUSTUS> 
+# Name: Kelvin Amu
+# STUDENT ID:  2425403579
+# Email: amukelvin80@gmail.com/2425403579@gctu.edu.gh
+# Grader: Augustus
 # 
-# On my honor, <Kelvin AMU>, this programming assignment is my own work
+# On my honor, <Kelvin Amu>, this programming assignment is my own work
 # and I have not provided this code to any other student.
 
 
